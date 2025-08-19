@@ -1,1 +1,1 @@
-# Agrinho_2025
+Esse jogo funciona da seguinte maneira: Você é um carpinteiro que seria o boneco com um circulo e um retango para ser representado, e com as setas ao lado da tecla control voê controla seu boneco, e com a tecla espaço você planta suas sementes, e para colher você somente passa por cima delas com seu boneco 
